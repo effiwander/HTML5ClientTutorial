@@ -1,0 +1,22 @@
+<ReportDataSample>
+    <report name="AccountReportData_report_Account_report">
+        <sample path="Report.Group.OnEveryRow.data_Account.account_userid" value="fjs                                                                             "/>
+        <sample path="Report.Group.OnEveryRow.data_Account.account_email" value="support@4js.com                                                                 "/>
+        <sample path="Report.Group.OnEveryRow.data_Account.account_firstname" value="Charles                                                                         "/>
+        <sample path="Report.Group.OnEveryRow.data_Account.account_lastname" value="Smith                                                                           "/>
+        <sample path="Report.Group.OnEveryRow.data_Account.account_acstatus" value="OK"/>
+        <sample path="Report.Group.OnEveryRow.data_Account.account_addr1" value="251 O Connor Ridge Blvd.                                                        "/>
+        <sample path="Report.Group.OnEveryRow.data_Account.account_addr2" value="Suite 245                               "/>
+        <sample path="Report.Group.OnEveryRow.data_Account.account_city" value="Irving                                                                          "/>
+        <sample path="Report.Group.OnEveryRow.data_Account.account_state" value="TX                                                                              "/>
+        <sample path="Report.Group.OnEveryRow.data_Account.account_zip" value="75038               "/>
+        <sample path="Report.Group.OnEveryRow.data_Account.account_country" value="USA"/>
+        <sample path="Report.Group.OnEveryRow.data_Account.account_phone" value="+1 972 893 7300                                                                 "/>
+        <sample path="Report.Group.OnEveryRow.data_Account.account_langpref" value="English                                                                         "/>
+        <sample path="Report.Group.OnEveryRow.data_Account.account_favcategory" value="SUPPLIES  "/>
+        <sample path="Report.Group.OnEveryRow.data_Account.account_mylistopt" value="1"/>
+        <sample path="Report.Group.OnEveryRow.data_Account.account_banneropt" value="1"/>
+        <sample path="Report.Group.OnEveryRow.data_Account.account_sourceapp" value="WEB"/>
+        <sample path="Report.Group.OnEveryRow.data_Account.country_codedesc" value="United States                                     "/>
+    </report>
+</ReportDataSample>

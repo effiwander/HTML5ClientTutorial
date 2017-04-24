@@ -1,0 +1,68 @@
+<ReportDataSample>
+  <report name="OrderReportData_report_orderline_report">
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_orderid" value="1"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_userid" value="fjs-fr                                                                          "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_orderdate" value="10/08/2012"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_shipfirstname" value="Jean                                                                            "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_shiplastname" value="Dupont                                                                          "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_shipaddr1" value="7, rue de Dublin                                                                "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_shipaddr2" value="                                                                                "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_shipcity" value="Schiltigheim                                                                    "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_shipstate" value="                                                                                "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_shipzip" value="67300               "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_shipcountry" value="FRA"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_billfirstname" value="Jean                                                                            "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_billlastname" value="Dupont                                                                          "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_billaddr1" value="7, rue de Dublin                                                                "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_billaddr2" value="                                                                                "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_billcity" value="Schiltigheim                                                                    "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_billstate" value="                                                                                "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_billzip" value="67300               "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_billcountry" value="FRA"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_totalprice" value="1680.15"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_creditcard" value="                                                                                "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_exprdate" value="       "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_cardtype" value="                                                                                "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.orders_sourceapp" value="MTC"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.account_userid" value="fjs-fr                                                                          "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.account_email" value="support@4js.com                                                                 "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.account_firstname" value="Jean                                                                            "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.account_lastname" value="Dupont                                                                          "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.account_acstatus" value="OK"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.account_addr1" value="7, rue de Dublin                                                                "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.account_addr2" value="                                        "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.account_city" value="Schiltigheim                                                                    "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.account_state" value="                                                                                "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.account_zip" value="67300               "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.account_country" value="FRA"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.account_phone" value="+33 (0) 3 88 18 61 24                                                           "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.account_langpref" value="French                                                                          "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.account_favcategory" value="SUPPLIES  "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.account_mylistopt" value="1"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.account_banneropt" value="1"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.account_sourceapp" value="WEB"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.country_code" value="FRA"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.country_codedesc" value="France                                            "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.lineitem_orderid" value="1"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.lineitem_linenum" value="10"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.lineitem_itemid" value="FU-001-A  "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.lineitem_quantity" value="1"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.lineitem_unitprice" value="1490.00"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.product_productid" value="FU-001    "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.product_catid" value="FURNITURE "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.product_prodname" value="Board room table and chairs                                                     "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.product_proddesc" value="Board room table and 8 black leather chairs                                                                                                                                                                                                                    "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.product_prodpic" value="furniture/board-room-table-and-chairs.jpg                                                                                                                                                                                                                      "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.item_itemid" value="FU-001-A  "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.item_productid" value="FU-001    "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.item_listprice" value="1490.00"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.item_unitcost" value="0.00"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.item_supplier" value="1"/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.item_itstatus" value="P "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.item_attr1" value="Unit                                                                            "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.item_attr2" value="                                                                                "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.item_attr3" value="                                                                                "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.item_attr4" value="                                                                                "/>
+    <sample path="Report.Group.Group.Group.OnEveryRow.data_orderline.item_attr5" value="                                                                                "/>
+  </report>
+</ReportDataSample>
